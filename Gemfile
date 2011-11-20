@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'rails', '~> 3.0.9'
+gem 'rails', '~> 3.1.2'
 
 gem 'sqlite3'
 
-gem 'split', '~> 0.2.2'
+gem 'split', '~> 0.3.1'
