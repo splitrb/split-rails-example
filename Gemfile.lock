@@ -61,12 +61,12 @@ GEM
     method_source (0.9.2)
     mimemagic (0.3.2)
     mini_mime (1.0.1)
-    mini_portile2 (2.3.0)
+    mini_portile2 (2.4.0)
     minitest (5.11.3)
     mustermann (1.0.3)
     nio4r (2.3.1)
-    nokogiri (1.8.5)
-      mini_portile2 (~> 2.3.0)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
     rack (2.0.6)
     rack-protection (2.0.4)
       rack
@@ -127,8 +127,12 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-18
 
 DEPENDENCIES
   rails (~> 5.2.2)
   split (~> 3.3.0)
   sqlite3
+
+BUNDLED WITH
+   2.0.1
