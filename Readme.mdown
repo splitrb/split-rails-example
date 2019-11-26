@@ -1,6 +1,6 @@
 # Example of using split in a Rails 6.0 App
 
-This example app shows how easily you can integrate the a/b testing framework [Split](https://github.com/andrew/split) into your Rails based projects.
+This example app shows how easily you can integrate the a/b testing framework [Split](https://github.com/splitrb/split) into your Rails based projects.
 
 ## Note on Patches/Pull Requests
 
