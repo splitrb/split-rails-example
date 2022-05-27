@@ -4,4 +4,4 @@ gem 'rails', '~> 6.1'
 
 gem 'listen'
 gem 'sqlite3'
-gem 'split', '~> 3.4.1', :require => 'split/dashboard'
+gem 'split', '~> 4.0.1', :require => 'split/dashboard'
